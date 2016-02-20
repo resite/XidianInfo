@@ -1,9 +1,3 @@
-title: pyhton爬虫框架scrapy
-date: 2016-02-01 11:42:39
-categories: python
-tags: [python,scrapy]
----
-
 # 概要
 1. 用来抓取info.xidian.edu.cn上的新闻
 2. 下载图片
