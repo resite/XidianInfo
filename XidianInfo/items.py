@@ -17,4 +17,7 @@ class XidianinfoItem(Item):
     newsTime = Field()
     newsFrom = Field()
     newsContent = Field()
+
+    image_urls = Field()
+    images = Field()
     pass
